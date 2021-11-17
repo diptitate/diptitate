@@ -13,7 +13,7 @@
 - http://agilysis.com
 - https://iitmfoundation.org/
 - https://birdwing.in
-- 
+- And many more.
 
 <!---
 diptitate/diptitate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
