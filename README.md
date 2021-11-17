@@ -2,6 +2,7 @@
 - 👀 I’m interested in .FrontEnd Devlopment..Expertise in JavaScript frameworks like JQuery and HTML5 and CSS3 frameworks like Bootstrap.
 - 	Knowledge on dynamic CSS languages 
 - 	Worked for different browser support like Chrome, IE, Firefox. Multiple screen support like Mobile devices, iPad with different orientations, Laptop screens & Larger screens.
+- Familiar to devlop Wordpress Theme.
 - 🌱 I’m currently learning .React..
 - 💞️ I’m looking to collaborate my love towards Frontend Devlopment.
 - 📫 Here are mentioning some Project on that I have worked.
